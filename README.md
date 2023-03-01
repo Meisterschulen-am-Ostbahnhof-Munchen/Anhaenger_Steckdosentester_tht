@@ -10,7 +10,7 @@ https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Anhaenger_Steckdosentest
 
 ### Platine_2
 
-
+![image](https://user-images.githubusercontent.com/69573151/222133036-e1144e7d-7b46-4418-b64d-1ad7d304f583.png)
 
 ### Platine_3
 
