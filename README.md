@@ -1,7 +1,7 @@
 https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Anhaenger_Steckdosentester_tht/blob/master/README.md
 
 
-# Anhaenger_Steckdosentester
+# Anhaenger_Steckdosentester THT
 
 ## Platinen
 
